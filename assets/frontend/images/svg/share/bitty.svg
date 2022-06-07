@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 17 17">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="_25_Bitty" data-name="25_Bitty" class="cls-1" d="M305.01,131.015v17h17v-17h-17Zm15.624,15.624h-14.15V132.391h14.15v14.248Zm-12.087-11.988h4.226v4.225h-4.226v-4.225Zm6.388,0h3.537v9.924h-3.537v-9.924Zm-6.34,9.824v-3.538h9.925v3.538H308.6Z" transform="translate(-305 -131)"/>
+</svg>

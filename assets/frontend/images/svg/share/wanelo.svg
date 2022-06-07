@@ -1,0 +1,27 @@
+<svg id="_48_wanelo" data-name="48_wanelo" xmlns="http://www.w3.org/2000/svg" width="16" height="17" viewBox="0 0 16 17">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        opacity: 0.9;
+      }
+
+      .cls-3 {
+        opacity: 0.8;
+      }
+
+      .cls-4 {
+        opacity: 0.6;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="M501,246h5.113v6.017H501V246Zm5.113,0h5.113v6.017h-5.113V246Zm5.113,0h5.764v6.017h-5.764V246Zm-5.113,6.017H501m5.113,0,5.113,0h-5.113m5.113,0,5.764,0h-5.764m5.764,0" transform="translate(-501 -246)"/>
+  <path id="Shape_1_copy_3" data-name="Shape 1 copy 3" class="cls-2" d="M501,251.633h5.113v5.735H501v-5.735Zm5.113,5.735H501m5.113,0,5.113,0h-5.113m5.113,0,5.764,0h-5.764m5.764,0" transform="translate(-501 -246)"/>
+  <path id="Shape_1_copy_4" data-name="Shape 1 copy 4" class="cls-3" d="M501,257.27h5.113v5.735H501V257.27Zm5.113,5.735H501m5.113,0,5.113,0h-5.113m5.113,0,5.764,0h-5.764m5.764,0" transform="translate(-501 -246)"/>
+  <path id="Shape_1_copy" data-name="Shape 1 copy" class="cls-4" d="M506.111,251.633h5.113v5.735h-5.113v-5.735Zm5.113,0h5.764v5.735h-5.764v-5.735Zm-5.113,5.735H501m5.113,0,5.113,0h-5.113m5.113,0,5.764,0h-5.764m5.764,0" transform="translate(-501 -246)"/>
+  <path id="Shape_1_copy_2" data-name="Shape 1 copy 2" class="cls-4" d="M506.111,257.27h5.113v5.735h-5.113V257.27Zm5.113,0h5.764v5.735h-5.764V257.27Zm-5.113,5.735H501m5.113,0,5.113,0h-5.113m5.113,0,5.764,0h-5.764m5.764,0" transform="translate(-501 -246)"/>
+</svg>

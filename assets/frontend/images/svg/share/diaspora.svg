@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="18" height="17" viewBox="0 0 18 17">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="_13_diaspora" data-name="13_diaspora" class="cls-1" d="M189,87.1l-1.4-4.354-5.3,1.682V78.986h-4.6v5.542l-5.3-1.682L171,87.2l5.3,1.682-3.2,4.453,3.7,2.672,3.3-4.552,3.2,4.453,3.7-2.672-3.2-4.453Z" transform="translate(-171 -79)"/>
+</svg>

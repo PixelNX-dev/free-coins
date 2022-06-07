@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="8" height="17" viewBox="0 0 8 17">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="_47_Stocktwitz" data-name="47_Stocktwitz" class="cls-1" d="M452.985,255.876l-7.977-4.106v-1.564l7.977-4.2v2.737l-4.669,2.248,4.669,2.151v2.737Zm0,2.835-7.977,4.3v-2.738l4.572-2.248-4.572-2.249v-2.737l7.977,4.2v1.466Z" transform="translate(-445 -246)"/>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="15" height="18" viewBox="0 0 15 18">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="_23_citeulike" data-name="23_citeulike" class="cls-1" d="M173.008,130.005V148h15v-17.99h-15Zm13.14,16.15H174.974v-14.31h11.174v14.31h0Zm-9.829-12.982H184.8v1.943h-8.484v-1.943Zm0,3.169H184.8v1.942h-8.484v-1.942Zm0,3.271H184.8v1.942h-8.484v-1.942Zm0,3.271H184.8v1.942h-8.484v-1.942Z" transform="translate(-173 -130)"/>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="14" height="18" viewBox="0 0 14 18">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="_09_hackernews" data-name="09_hackernews" class="cls-1" d="M580.295,30c-0.679,1.2-3.108,5.5-3.108,5.5h-0.1s-2.331-4.3-3.011-5.5H570l5.245,8.7V48h3.5V38.7l5.245-8.7h-3.691Z" transform="translate(-570 -30)"/>
+</svg>

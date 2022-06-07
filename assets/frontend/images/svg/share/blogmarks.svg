@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="10" height="18" viewBox="0 0 10 18">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+
+      .cls-1 {
+        opacity: 0.6;
+      }
+    </style>
+  </defs>
+  <path id="Shape_39_copy" data-name="Shape 39 copy" class="cls-1" d="M1150.99,1128v11.84l9.79-5.64Z" transform="translate(-1151 -1128)"/>
+  <path class="cls-2" d="M1150.99,1133.88V1146l10.02-6.12Z" transform="translate(-1151 -1128)"/>
+</svg>

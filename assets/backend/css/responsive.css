@@ -1,0 +1,289 @@
+@media(max-width:1200px) and (min-width:700px){
+    .pfb_content_wrapper .container {
+        max-width: calc(100% - 30px);
+    }
+}
+@media(max-width:1440px){
+    .pdb_menu li {
+        padding: 30px 0px;
+        margin: 0 5px;
+    }
+}
+@media(max-width:1200px){
+    .pfb_upload_logo_fav, .pfb_changeColor_wrapper, .pfb_seo_setting, .pfb_white_box>h3{
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .software_box {
+        padding: 30px 15px;
+    }
+}
+@media(max-width:991px){
+    .pfb_header_wrapper {
+        padding: 0 15px;
+    }    
+    .pdb_menu li {
+        padding: 30px 10px;
+    }
+    .pfb_graybox {
+        padding: 15px;
+        margin: 40px 15px 0px;
+    }
+    h3.pfb_feilds {
+        padding: 12px 15px;
+    }
+    .pfb_graybox .pfb_feildBox {
+        padding-right: 15px;
+    }
+    .pfb_graybox .pfb_rate {
+        width: 50%;
+    }
+    .pfb_graybox .pfb_niches input.form-control {
+        width: 65%;
+    }
+    .pfb_white_box.fullwidth_content, .pfb_form_dv, .pfb_social_url, .my_website_dv table tr th, .my_website_dv table tr td,
+    .pfb_upgrade_soft {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .pfb_socila_btn_list li {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+    .pfb_socila_btn_list li:nth-child(even), .pfb_socila_btn_list li:nth-child(odd) {
+        max-width: calc(100% - 0px);
+        margin: 0 0px;
+    }
+    .pfb_whitebox_title {
+        padding: 20px 15px;    
+        display: block;
+    }
+    .inner_dv {
+        width: calc(100%);
+        margin-bottom: 15px;
+    }
+    .my_website_dv table tr:first-child th, .my_website_dv table tr:first-child td {
+        padding-top: 15px !important;
+    }
+    .my_website_dv table tr th, .my_website_dv table tr td {
+        padding: 15px !important;
+    }
+    .pfb_action_btn .pfb_btn {
+        width: 40px;
+        height: 40px;
+        line-height: 38px;
+        margin-right: 5px;
+    }
+    .software_box {
+        margin-bottom: 30px;
+    }
+}
+@media(max-width:768px){
+    .pfb_user>span, .pdb_menu li {
+        font-size: 14px;
+    }
+    .pfb_toggle {
+        margin-left: 5px;
+    }
+    .pfb_userWrapper {
+        flex: none;
+    }
+    .pfb_setup_website th, .pfb_setup_website tr:first-child td, .pfb_setup_website td,
+    .pfb_setup_website td:last-child, .pfb_setup_website th:last-child {
+        padding: 15px;
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .pfb_setup_website td input.form-control, .pfb_setup_website td h4 {
+        font-size: 14px;
+    }
+    .pfb_setup_website table {
+        min-width: 768px;
+    }
+    .pfb_setup_wrapper {
+        width: 100%;
+    }
+    .pfb_content_wrapper {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .pfb_font18 {
+        font-size: 16px;
+    }
+}
+@media(max-width:700px){
+    .pfb_menu_wrapper, .pfb_logo, .pfb_userWrapper {
+        flex: none;
+    }
+    .pfb_header_wrapper {
+        padding: 15px 0px 0;
+        display: inline-block;
+        width: 100%;
+    }
+    .pfb_userWrapper {
+        position: absolute;
+        right: 25px;
+        top: 23px;
+    }
+    .pdb_menu li {
+        padding: 15px 10px;
+    }
+    .pfb_menu_wrapper {
+        background-color: #efe1ff;
+    }
+    .pfb_logo {
+        margin-bottom: 10px;
+    }
+    .pfb_content_wrapper {
+        padding: 50px 15px;
+    }
+    
+    
+}
+@media(max-width:575px){
+    .pfb_createWbsite_wrapper h6 {
+        padding: 24px 0px 0;
+    }
+    .pfb_createWbsite.pfb_createWbsite_wrapper {
+        padding: 30px 15px;
+    }
+    span.pfb_profilename {
+        font-size: 0;
+    }
+    .pfb_logo>img {
+        max-width: 200px;
+    }
+    .pfb_userWrapper {
+        top: 20px;
+    }
+    .pfb_createWbsite {
+        max-width: 100%;
+        padding: 40px 15px;
+    }
+    .pfb_choose_url>span {
+        font-size: 14px;
+    }
+    .pfb_choose_url .form-control {
+        padding-left: 210px;
+        font-size: 14px;
+    }
+    .pfb_modal .modal-body {
+        padding: 30px 20px;
+    }
+    .pfb_upload {
+        padding: 20px 15px;
+    }
+    .pfb_upload_logo_fav, .pfb_changeColor_wrapper, .pfb_seo_setting{
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .pfb_logotext_box {
+        display: inline-block;
+        justify-content: center;
+        vertical-align: middle;
+        width: 100%;
+        max-width: 100%;
+    }
+    .pfb_logotext_box h5 {
+        margin-bottom: 10px;
+    }
+    .pfb_logotext_box .form-control, .pfb_logotext_box .pfb_selectBox {
+        margin-left: 0px;
+        width: 100%;
+        max-width: 100%;
+    }
+    .pfb_table_dv, .pfb_graybox {
+        display: block;
+    }
+    .pfb_graybox .pfb_niches input.form-control {
+        width: 100%;
+        margin-left: 0;
+        margin-top: 10px;
+    }
+    .pfb_graybox .pfb_rate {
+        width: 100%;
+        margin-top: 15px;
+    }
+    .pfb_graybox .pfb_rate button.pfb_btn {
+        max-width: 100%;
+    }
+    .pfb_graybox .pfb_feildBox {
+        padding-right: 0;
+    }
+    .pfb_graybox .pfb_niches {
+        width: 100%;
+    }
+    .pfb_graybox.fullwidth_content {
+        display: inline-flex;
+    }
+    .pfb_setup_btns {
+        display: block;
+    }
+    .pfb_setup_btns  a.pfb_btn.pfb_purpleBtn {
+        margin-top: 15px;
+    }   
+    .pfb_content_wrapper .container {
+        padding: 0;
+    }
+    .pfb_setup_btns>a {
+        width: 100%;
+    }
+    .pfb_breadcrumb .breadcrumb {
+        padding: 14px 20px;
+    }
+    .pfb_setup_wrapper > p {
+        font-size: 16px;
+    }
+}
+@media(max-width:480px){
+    .pfb_niche_checkbox>span {
+        display: block;
+    }
+    .pfb_niche_checkbox span.pfb_product {
+        margin-top: 15px;
+    }
+    .pfb_socila_btn_list li {
+        flex: 0 0 100%;
+        max-width: 100%;
+        flex-wrap: wrap;
+    }
+    .pfb_comman_icon {
+        display: inline-flex;
+        flex: 0 0 100%;
+        max-width: 100%;
+        margin: 0 0 15px;
+    }
+    .pfb_socila_btn_list .pfb_input {
+        margin-bottom: 30px;
+    }
+    .pfb_socila_btn_list li:nth-child(even), 
+    .pfb_socila_btn_list li:nth-child(odd) {
+        margin: 0 0px 30px;
+        border-bottom: 1px solid #f9f9f9;
+    }
+    .pfb_social_url p {
+        text-align: center;
+    }
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

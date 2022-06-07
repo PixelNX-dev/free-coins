@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="18" height="15" viewBox="0 0 18 15">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="_04_surfingbird" data-name="04_surfingbird" class="cls-1" d="M252,32.951l-0.3,2.231-3.8,3.853h-2.1L245,41.165V44l-2.7-.811,3.2-5.78L237,32.546l6.3,0.913L240.3,29l8.4,4.563,2.4-2.839h1.2l2.7,1.217Z" transform="translate(-237 -29)"/>
+</svg>

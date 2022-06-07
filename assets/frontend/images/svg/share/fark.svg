@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="11" height="18" viewBox="0 0 11 18">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="_30_fark" data-name="30_fark" class="cls-1" d="M638,127h11v3.578h-7v4.191h6.5v3.475H642v6.746h-4V127Z" transform="translate(-638 -127)"/>
+</svg>
